@@ -2,21 +2,6 @@
 
 A beautiful, responsive, and fully customizable marketing page template that works for any app across all platforms. Perfect for marketing pages, support pages, landing pages, and more.
 
-## ✨ Features
-
-- 🎨 **Modern Design** - Beautiful, clean interface with smooth animations
-- 📱 **Fully Responsive** - Works perfectly on desktop, tablet, and mobile
-- ⚙️ **Easy Configuration** - Customize everything via a single JSON file
-- 🔄 **Dual Mode** - Works for both marketing and support pages
-- 🌐 **Platform Agnostic** - Works for iOS, Android, macOS, Windows, Web apps
-- 🎯 **SEO Friendly** - Proper meta tags and semantic HTML
-- ⚡ **Fast Loading** - Lightweight and optimized
-- 🎭 **Theme Customization** - Easy color scheme customization
-- 📝 **Contact Forms** - Built-in contact form support
-- ❓ **FAQ Section** - Expandable FAQ with smooth animations
-- 📸 **Screenshot Gallery** - Lightbox-enabled screenshot viewer
-- 🔗 **Social Links** - Easy social media integration
-
 ## 🚀 Quick Start
 
 ### 1. Basic Setup
